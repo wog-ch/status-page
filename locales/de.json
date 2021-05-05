@@ -1,0 +1,19 @@
+{
+  "title": "World of Games Statusseite",
+  "description": "Übersichtsseite über den Status der von World of Games GmbH publizierten Services",
+  "systems": {
+    "items": {
+      "webshop": {
+        "title": "Webshop",
+        "description": "Unsere Website 'www.wog.ch' zum shoppen"
+      },
+      "apps": {
+        "title": "Apps",
+        "description": "Unsere Android, iPhone und iPad Apps für unseren Shop"
+      },
+      "api": {
+        "title": "API"
+      }
+    }
+  }
+}
