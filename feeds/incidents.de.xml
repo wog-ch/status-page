@@ -4,7 +4,7 @@
         <title>WoG.ch Statusseite</title>
         <link>https://status.wog.ch</link>
         <description>Übersichtsseite über den Status der von World of Games GmbH publizierten Services</description>
-        <lastBuildDate>Wed, 05 May 2021 08:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 08:23:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.wog.ch/feeds/incidents.de.xml" rel="self" type="application/rss+xml"/>
@@ -13,7 +13,10 @@
             <link>https://status.wog.ch/incidents/5a7e57c4</link>
             <guid>https://status.wog.ch/incidents/5a7e57c4</guid>
             <pubDate>Wed, 05 May 2021 07:30:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Test Incident zum testen der Funktionen</p>
+            <content:encoded><![CDATA[<h1>Lösung</h1>
+<p>Das Problem konnte behoben werden.</p>
+<h1>Beschreibung</h1>
+<p>Test Incident zum testen der Funktionen</p>
 <!--- language code: de -->
 ]]></content:encoded>
         </item>

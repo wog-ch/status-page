@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.wog.ch</id>
     <title>WoG.ch Statusseite</title>
-    <updated>2021-05-05T08:20:19.857Z</updated>
+    <updated>2021-05-05T08:23:21.458Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.wog.ch"/>
     <link rel="self" href="https://status.wog.ch/feeds/incidents.de.atom"/>
@@ -12,7 +12,10 @@
         <id>https://status.wog.ch/incidents/5a7e57c4</id>
         <link href="https://status.wog.ch/incidents/5a7e57c4"/>
         <updated>2021-05-05T07:30:04.013Z</updated>
-        <content type="html"><![CDATA[<p>Test Incident zum testen der Funktionen</p>
+        <content type="html"><![CDATA[<h1>Lösung</h1>
+<p>Das Problem konnte behoben werden.</p>
+<h1>Beschreibung</h1>
+<p>Test Incident zum testen der Funktionen</p>
 <!--- language code: de -->
 ]]></content>
     </entry>
