@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.wog.ch</id>
     <title>WoG.ch Statusseite</title>
-    <updated>2021-05-05T07:37:57.503Z</updated>
+    <updated>2021-05-05T07:46:12.524Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.wog.ch"/>
     <link rel="self" href="https://status.wog.ch/feeds/incidents.de.atom"/>
