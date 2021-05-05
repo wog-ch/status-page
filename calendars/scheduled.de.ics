@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Statusfy//status.wog.ch//calendar//scheduled//DE
+NAME:WoG.ch Statusseite
+X-WR-CALNAME:WoG.ch Statusseite
+TIMEZONE-ID:UTC
+X-WR-TIMEZONE:UTC
+END:VCALENDAR

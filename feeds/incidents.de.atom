@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.wog.ch</id>
+    <title>WoG.ch Statusseite</title>
+    <updated>2021-05-05T06:43:40.770Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://status.wog.ch"/>
+    <link rel="self" href="https://status.wog.ch/feeds/incidents.de.atom"/>
+    <subtitle>Übersichtsseite über den Status der von World of Games GmbH publizierten Services</subtitle>
+</feed>
