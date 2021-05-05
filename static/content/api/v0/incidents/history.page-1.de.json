@@ -1,1 +1,1 @@
-{"count":0,"page":1,"page_size":3,"total_pages":1,"periods":[]}
+{"count":1,"page":1,"page_size":3,"total_pages":1,"periods":[{"id":"2021-5","incidents":[{"id":"5a7e57c4","title":"Test Incident","date":"2021-05-05T07:30:04.013Z","modified":"2021-05-05T07:37:43.901Z","scheduled":null,"severity":"partial-outage","affectedsystems":["webshop"],"resolved":false,"content":"<p>Test Incident zum testen der Funktionen</p>\n<!--- language code: de -->\n"}],"order":1,"count":1}]}

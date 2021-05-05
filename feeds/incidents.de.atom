@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.wog.ch</id>
     <title>WoG.ch Statusseite</title>
-    <updated>2021-05-05T06:43:40.770Z</updated>
+    <updated>2021-05-05T07:37:57.503Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.wog.ch"/>
     <link rel="self" href="https://status.wog.ch/feeds/incidents.de.atom"/>
     <subtitle>Übersichtsseite über den Status der von World of Games GmbH publizierten Services</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Test Incident]]></title>
+        <id>https://status.wog.ch/incidents/5a7e57c4</id>
+        <link href="https://status.wog.ch/incidents/5a7e57c4"/>
+        <updated>2021-05-05T07:30:04.013Z</updated>
+        <content type="html"><![CDATA[<p>Test Incident zum testen der Funktionen</p>
+<!--- language code: de -->
+]]></content>
+    </entry>
 </feed>
