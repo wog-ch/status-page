@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.wog.ch</id>
     <title>WoG.ch Statusseite</title>
-    <updated>2021-06-25T11:12:09.621Z</updated>
+    <updated>2021-06-25T11:15:35.313Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.wog.ch"/>
     <link rel="self" href="https://status.wog.ch/feeds/incidents.de.atom"/>
@@ -17,7 +17,7 @@ temporär Offline genommen werden.</p>
 <div class="update-block">
           <div class="update-block-date">2021-06-25T11:00:00.000Z</div>
           <div class="update-block-content">
-            <div class="update-block-title">Resolved</div>
+            <div class="update-block-title">Gel&ouml;st</div>
             <div class="update-block-body">
 <p>Das Problem konnte behoben werden und alle Services sind wieder Online.</p>
 </div></div></div>
