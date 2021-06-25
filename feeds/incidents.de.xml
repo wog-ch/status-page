@@ -4,7 +4,7 @@
         <title>WoG.ch Statusseite</title>
         <link>https://status.wog.ch</link>
         <description>Übersichtsseite über den Status der von World of Games GmbH publizierten Services</description>
-        <lastBuildDate>Fri, 25 Jun 2021 10:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jun 2021 10:36:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.wog.ch/feeds/incidents.de.xml" rel="self" type="application/rss+xml"/>
@@ -13,7 +13,7 @@
             <link>https://status.wog.ch/incidents/03a3f9bf</link>
             <guid>https://status.wog.ch/incidents/03a3f9bf</guid>
             <pubDate>Fri, 25 Jun 2021 10:30:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Aufgrund eines unerwarteten Fehlers in der Datenbank muss der Shop und die weiteren Services Offline genommen werden.</p>
+            <content:encoded><![CDATA[<p>Aufgrund eines unerwarteten Fehlers muss der Shop und die weiteren Services temporär Offline genommen werden.</p>
 <!--- language code: de -->
 ]]></content:encoded>
         </item>
