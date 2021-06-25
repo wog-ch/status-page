@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>WoG.ch Statusseite</title>
         <link>https://status.wog.ch</link>
         <description>Übersichtsseite über den Status der von World of Games GmbH publizierten Services</description>
-        <lastBuildDate>Wed, 05 May 2021 08:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jun 2021 10:31:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.wog.ch/feeds/incidents.de.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ausfall des Webshops]]></title>
+            <link>https://status.wog.ch/incidents/03a3f9bf</link>
+            <guid>https://status.wog.ch/incidents/03a3f9bf</guid>
+            <pubDate>Fri, 25 Jun 2021 10:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Aufgrund eines unerwarteten Fehlers in der Datenbank muss der Shop und die weiteren Services Offline genommen werden.</p>
+<!--- language code: de -->
+]]></content:encoded>
+        </item>
     </channel>
 </rss>

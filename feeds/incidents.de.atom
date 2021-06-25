@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.wog.ch</id>
     <title>WoG.ch Statusseite</title>
-    <updated>2021-05-05T08:26:38.698Z</updated>
+    <updated>2021-06-25T10:31:03.641Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.wog.ch"/>
     <link rel="self" href="https://status.wog.ch/feeds/incidents.de.atom"/>
     <subtitle>Übersichtsseite über den Status der von World of Games GmbH publizierten Services</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Ausfall des Webshops]]></title>
+        <id>https://status.wog.ch/incidents/03a3f9bf</id>
+        <link href="https://status.wog.ch/incidents/03a3f9bf"/>
+        <updated>2021-06-25T10:30:37.569Z</updated>
+        <content type="html"><![CDATA[<p>Aufgrund eines unerwarteten Fehlers in der Datenbank muss der Shop und die weiteren Services Offline genommen werden.</p>
+<!--- language code: de -->
+]]></content>
+    </entry>
 </feed>

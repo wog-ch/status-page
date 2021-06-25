@@ -1,1 +1,1 @@
-{"count":0,"page":1,"page_size":10,"total_pages":1,"incidents":[]}
+{"count":1,"page":1,"page_size":10,"total_pages":1,"incidents":[{"id":"03a3f9bf","title":"Ausfall des Webshops","date":"2021-06-25T10:30:37.569Z","modified":"2021-06-25T10:30:52.411Z","scheduled":null,"severity":"major-outage","affectedsystems":["webshop","apps","api"],"resolved":false,"content":"<p>Aufgrund eines unerwarteten Fehlers in der Datenbank muss der Shop und die weiteren Services Offline genommen werden.</p>\n<!--- language code: de -->\n"}]}
