@@ -1,1 +1,1 @@
-[{"name":"webshop","status":"major-outage","order":1},{"name":"apps","status":"major-outage","order":2},{"name":"api","status":"major-outage","order":3}]
+[{"name":"webshop","status":"operational","order":1},{"name":"apps","status":"operational","order":2},{"name":"api","status":"operational","order":3}]
